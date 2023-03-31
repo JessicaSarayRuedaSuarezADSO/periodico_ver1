@@ -1,0 +1,127 @@
+.periodico{
+    background: #d2c29e;
+    width: 700px;
+    height: 900px;
+    margin-left: 200px;
+    border: 5px solid #000;}
+.contenido-derecho{
+    background: #d2c29e;
+    width: 300px;
+    height: 450px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border: 2px solid #000;
+    position: absolute;
+}
+.resultado1{
+    width: 100%;
+    height: 180px;
+}
+.cosa{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+.parte1{
+    background: #d2c29e;
+    width: 150px;
+    height: 450px;
+    border-right: 2px solid #000;
+    position: absolute;
+}
+.resultado2{
+    position: absolute;
+    top: 190px;
+}
+.texto1{
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+}
+.resultado3{
+    width: 150px;
+    height: 180px;
+    text-align: center;
+    position: absolute;
+    top: 270px;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+.palabras-grande {
+  font-size: 16px;
+  margin-left: 8px;
+}
+.palabras-pequeno {
+  font-size: 10px;
+}
+.parte2{
+    width: 148px;
+    height: 450px;  
+    position: absolute;
+    left: 152px;
+    z-index: 10;
+}
+.caja1{
+    width: 100%;
+    height:180px;
+}
+.seno{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+.caja2{
+    width: 100%;
+    height: 100px;
+    border-top: 3px solid #000;
+    border-bottom: 3px solid #000;
+}
+.pres{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+.caja3{
+    width: 100%;
+    height: 164px;
+    text-align: center;
+}
+
+
+
+
+
+
+.contenido-superior-derecho{
+    background: #d2c29e;
+    width: 300px;
+    height: 550px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border: 2px solid #000;
+    position: absolute;
+    left: 560px;
+}
+.contenido-inferior-derecho{
+    background: #d2c29e;
+    width: 300px;
+    height: 350px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border: 2px solid #000;
+    position: absolute;
+    top: 500px;
+}
+.contenido-izquierdo{
+    background: #d2c29e;
+    width: 300px;
+    height: 250px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border: 2px solid #000;
+    position: absolute;
+    left: 560px;
+    top: 600px;
+}
